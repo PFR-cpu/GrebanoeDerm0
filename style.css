@@ -189,9 +189,13 @@ display: block;
     cursor: pointer;
 }
 @media  only screen and (max-width: 600px){
+body{
+ background-size:contain;
+}
 #header-nm{
+
         font-size: 5.2vmax;
-        margin-left: 13.5vmax;
+        margin-left: 15vmax;
     }
     #slogan{
         font-size: 2.5vmax;
@@ -214,7 +218,7 @@ display: block;
     #btn-block{
         font-size: 5vmax;
         width: 50vmax;
-        margin-left: 16vmax ;
+        margin-left: 13.5vmax ;
     }
     .btn{
         font-size: 3.5vmax;
