@@ -195,7 +195,7 @@ body{
 #header-nm{
 
         font-size: 5.2vmax;
-        margin-left: 15vmax;
+        margin-left: 16.5vmax;
     }
     #slogan{
         font-size: 2.5vmax;
@@ -218,7 +218,7 @@ body{
     #btn-block{
         font-size: 5vmax;
         width: 50vmax;
-        margin-left: 13.5vmax ;
+        margin-left: 13vmax ;
     }
     .btn{
         font-size: 3.5vmax;
@@ -238,7 +238,7 @@ body{
     .modal-content{
         width: 80%;
         height: 20vmax;
-        margin-left: 20%;
+        margin-left: 10vmax;
     }
     #step-btn{
         font-size: 3vmax;
