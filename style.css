@@ -189,13 +189,14 @@ display: block;
     cursor: pointer;
 }
 @media  only screen and (max-width: 600px){
-body{
- background-size:contain;
+#dermo{
+margin-left:1.5vmax;
+
 }
 #header-nm{
 
         font-size: 5.2vmax;
-        margin-left: 16.5vmax;
+        margin-left: 17.5vmax;
     }
     #slogan{
         font-size: 2.5vmax;
