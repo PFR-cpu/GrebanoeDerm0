@@ -191,7 +191,7 @@ display: block;
 @media  only screen and (max-width: 600px){
 #header-nm{
         font-size: 5.2vmax;
-        margin-left: 11.5vmax;
+        margin-left: 13.5vmax;
     }
     #slogan{
         font-size: 2.5vmax;
@@ -214,10 +214,10 @@ display: block;
     #btn-block{
         font-size: 5vmax;
         width: 50vmax;
-        margin-left: 17.5vmax ;
+        margin-left: 16vmax ;
     }
     .btn{
-        font-size: 3.7vmax;
+        font-size: 3.5vmax;
 
     }
     #content-block{
