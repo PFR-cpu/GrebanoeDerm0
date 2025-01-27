@@ -189,8 +189,11 @@ display: block;
     cursor: pointer;
 }
 @media  only screen and (max-width: 600px){
-#dermo{
-margin-left:2.6vmax;
+#body{
+    background-image:none;
+}
+    #dermo{
+margin-left:2.9vmax;
 
 }
 #header-nm{
@@ -248,5 +251,5 @@ margin-left:2.6vmax;
     }
     #Plans {
         display:none;
-        font-size:1.87vmax;
+        font-size:1.87vmax
 }
